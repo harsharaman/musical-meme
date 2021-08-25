@@ -1,5 +1,15 @@
 # A TDD Express API Repo with CI/CD pipeline with tests on TravisCI and AppVeyor with deployment in Heroku
 
+[![Build Status](https://app.travis-ci.com/harsharaman/musical-meme.svg?branch=master)](https://app.travis-ci.com/harsharaman/musical-meme)
+
+[![Coverage Status](https://coveralls.io/repos/github/harsharaman/musical-meme/badge.svg?branch=master)](https://coveralls.io/github/harsharaman/musical-meme?branch=master)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/7659d19f10ab792df335/maintainability)](https://codeclimate.com/github/harsharaman/musical-meme/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/7659d19f10ab792df335/test_coverage)](https://codeclimate.com/github/harsharaman/musical-meme/test_coverage)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/6b8muew93k34tct9?svg=true)](https://ci.appveyor.com/project/harsharaman/musical-meme)
+
 #### Uses ES6
 
 #### scripts in package.json works as follows:
